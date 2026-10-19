@@ -42,5 +42,3 @@ Python / World Models / Reinforcement Learning / Robotics
 ## Contact
 
 - GitHub：[FrankGraen](https://github.com/FrankGraen)
-- 公开邮箱：【待填写】
-- 其他公开联系方式：【待填写】
